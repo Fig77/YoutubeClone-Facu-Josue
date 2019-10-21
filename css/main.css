@@ -94,13 +94,20 @@ body{
 #options{
 	width: 27vw;
 	display:inline-block;
+	text-align:right;
+	justify-content: center;
+	
+}
+.div-img-container{
+	height: 80%;
+	width: 10%;
+	display: inline-block;
+	text-align:right;
+	vertical-align: middle;
+	line-height: 80%;
 }
 
-#options-img{
-	height:6.4vh;
-	padding-top:1.6vh;
-	width:auto;
-	vertical-align: middle;
-	line-height: 6.4vh;
-	padding-left: 11vw;
+.options-img{
+	
+	
 }
