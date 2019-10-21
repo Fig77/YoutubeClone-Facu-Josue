@@ -1,3 +1,8 @@
+html{
+	margin:0;
+	padding:0;
+}
+
 body{
     margin:0;
     padding:0;
@@ -40,7 +45,7 @@ body{
     width: auto;
 	vertical-align: middle;
 	line-height: 90%;
-	padding-top:10%;
+	/*padding-top:10%;*/
 }
 #searchbar{
 	width: 45vw;
@@ -61,15 +66,26 @@ body{
 	margin: 0;
 	vertical-align: middle;
 	line-height: 60%;
+	display: inline-block;
+	border-color:grey;
+	border-style:solid;
+	border-width: 1px;
 	
 }
 #search-bar-button{
-	height: 60%;
+	height: 4.2vh;
 	padding:0;
 	margin:0;
 	width:5%;
 	vertical-align: middle;
-	line-height: 60%;
+	line-height: 4.2vh;
+	display:inline-block;
+	background-color: #F8F8F8;
+	border-color:grey;
+	border-style:solid;
+	border-width: 1px;
+	border-left-width: 0px;
+	
 }
 #search-bar-img{
 	max-height: 100%;
