@@ -5,7 +5,8 @@ html{
 
 body{
     margin:0;
-    padding:0;
+	padding:0;
+	display:block;
 }
 
 .navbar{
@@ -14,6 +15,7 @@ body{
     margin:0;
     padding: 0;
 	position:fixed;
+	background-color: white;
 }
 
 #logo{
@@ -107,7 +109,21 @@ body{
 	line-height: 80%;
 }
 
-.options-img{
-	
-	
+#space{
+	height:8vh;
+}
+main{
+	background-color: aquamarine;
+	width:60vw;
+	height: 92vh;
+	box-sizing: border-box;
+	float: left;
+}
+
+aside{
+	background-color:red;
+	width:38vw;
+	height:92vh;
+	box-sizing: border-box;
+	float: left;
 }
