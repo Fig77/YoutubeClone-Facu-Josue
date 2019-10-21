@@ -2,22 +2,77 @@ body{
     margin:0;
     padding:0;
 }
+
 .navbar{
     width: 100%;
     height: 8vh;
-    background-color: aqua;
     margin:0;
     padding: 0;
+	position:fixed;
+}
+
+#logo{
+	width: 21vw;
+	display:inline-block;
 }
 #ham{
     width:5vw;
+	height: 8vh;
+	display:inline-block;
+	padding-left:1vw;
+	
+}
+#ham-img{
+	height 90%; 
+	vertical-align: middle;
+	line-height: 90%;
+	width: auto;
+	padding-top:10%;
 }
 #youtube-logo{
     height: 30px;
     width: 14vw;
+	display:inline-block;
 }
 
 #youtube-logo-img{
-     height: auto;
-     width: 100%;
+    height: 90%;
+    width: auto;
+	vertical-align: middle;
+	line-height: 90%;
+	padding-top:10%;
+}
+#searchbar{
+	height: 8vh;
+	width: 45vw;
+	display:inline-block;
+	padding-left:2vw;
+	padding-right:2vw;
+	
+}
+#search-bar-input{
+	height: 60%;
+	width: 90%;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+	line-height: 60%;
+	
+}
+#search-bar-button{
+	height: 60%;
+	padding:0;
+	margin:0;
+	width:5%;
+	vertical-align: middle;
+	line-height: 60%;
+}
+#search-bar-img{
+	max-height: 100%;
+	max-width: 100%;
+}
+#options{
+	width: 20vw;
+	float:right;
+	display:inline-block;
 }
