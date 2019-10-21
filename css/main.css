@@ -114,15 +114,16 @@ body{
 }
 main{
 	background-color: aquamarine;
-	width:60vw;
+	width:70vw;
 	height: 92vh;
 	box-sizing: border-box;
 	float: left;
+	padding-left: 5vw;
 }
 
 aside{
 	background-color:red;
-	width:38vw;
+	width:28vw;
 	height:92vh;
 	box-sizing: border-box;
 	float: left;
