@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    width: 100%;
+    height: 8vh;
+    background-color: aqua;
+    margin:0;
+    padding: 0;
+}
+#ham{
+    width:5vw;
+}
+#youtube-logo{
+    height: 30px;
+    width: 14vw;
+}
+
+#youtube-logo-img{
+     height: auto;
+     width: 100%;
+}
