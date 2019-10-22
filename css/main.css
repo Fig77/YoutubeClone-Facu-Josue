@@ -218,3 +218,11 @@ aside{
 #description-text-more:hover{
 	cursor:pointer;
 }
+
+#sort-by{
+	color: #696969;
+	margin-left: 5%;
+}
+#sort-by:hover{
+	cursor:pointer;
+}
