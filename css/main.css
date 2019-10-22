@@ -1,6 +1,7 @@
 html{
 	margin:0;
 	padding:0;
+    font-family: 'Roboto', sans-serif;
 }
 
 body{
@@ -135,6 +136,8 @@ aside{
 #main-video-views{
 	display: inline-block;
 	width: 30%;
+	font-size:1.1vw;
+	color: #696969;
 }
 #main-video-icons{
 	display: inline-block;
@@ -143,15 +146,25 @@ aside{
 #main-video-icons ul{
 	list-style-type: none;
 	position: inherit;
-	padding-left: 20%;
+	padding-left: 47%;
+	font-size: 1vw;
 }
 #main-video-icons ul li{
 	float: left;
 	padding-right: 3%;
-	color: gray;
-	width: 12%;
+	color: #696969;
+	width: 17%;
 }
-
+#main-video-icons ul li a:hover{
+	cursor: pointer;
+}
 .space-icon{
 	padding-left: 5%;
+}
+
+
+.main-video-underline{
+	color: #BDBDBD;
+	width: 95%;
+	float: left;
 }
