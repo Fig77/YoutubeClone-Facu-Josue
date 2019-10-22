@@ -293,3 +293,27 @@ aside{
 	color: #696969;
 	width: 5%;
 }
+.recommended-video-container{
+	width: 100%;
+	height: 17vh;
+	
+}
+.recommended-video-title-container{
+	display:inline-block;
+	width: 40%;
+	position:relative;
+	top: -51%;
+}
+
+.video-title{
+	font-weight: bold;
+}
+.recommended-video-views-container{
+	display:inline-block;
+	width: 40%;
+	color: #696969;
+	font-size: 1vw;
+	position:relative;
+	bottom:50%;
+	left: 45%;
+}
