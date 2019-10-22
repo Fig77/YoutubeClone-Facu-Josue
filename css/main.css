@@ -248,5 +248,48 @@ aside{
 .options-img{
 	height: 8vh;
 	width: auto;
-	
+}
+
+.comment_c{
+	height: 20vh;
+	width: 100%;
+}
+
+.random_user_name{
+	font-weight: bold;
+	display: inline-block;
+	width: 10%;
+	height: 20px;
+	font-size: 14px;
+	line-height: 20px;
+	vertical-align: middle;
+	margin-top: -9vh;
+	padding-left: 1vw;
+}
+.random_user_date{
+	color: #696969;
+	display: inline-block;
+	width: 15%;
+	height: 20px;
+	font-size: 14px;
+	line-height: 20px;
+	vertical-align: middle;
+	margin-top: -9vh;
+}
+
+.random_user_comment{
+	display: inline-block;
+	margin-left: -35vh;
+}
+
+.random_user_option{
+	list-style-type: none;
+	position: inherit;
+	padding-left: 7.5%;
+	font-size: 1vw;
+}
+.random_user_option li{
+	float: left;
+	color: #696969;
+	width: 5%;
 }
