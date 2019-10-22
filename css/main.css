@@ -113,7 +113,6 @@ body{
 	height:8vh;
 }
 main{
-	background-color: aquamarine;
 	width:70vw;
 	height: 92vh;
 	box-sizing: border-box;
@@ -122,9 +121,37 @@ main{
 }
 
 aside{
-	background-color:red;
 	width:28vw;
 	height:92vh;
 	box-sizing: border-box;
 	float: left;
+}
+
+#main-video-options{
+	display:inline-block;
+	width: 100%;
+}
+
+#main-video-views{
+	display: inline-block;
+	width: 30%;
+}
+#main-video-icons{
+	display: inline-block;
+	width: 69%;
+}
+#main-video-icons ul{
+	list-style-type: none;
+	position: inherit;
+	padding-left: 20%;
+}
+#main-video-icons ul li{
+	float: left;
+	padding-right: 3%;
+	color: gray;
+	width: 12%;
+}
+
+.space-icon{
+	padding-left: 5%;
 }
