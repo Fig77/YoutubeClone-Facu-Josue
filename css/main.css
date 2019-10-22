@@ -226,3 +226,27 @@ aside{
 #sort-by:hover{
 	cursor:pointer;
 }
+.user_comment_c{
+	height: 10vh;
+}
+#public-comment-container{
+	width: 87%;
+	height: 4vh;
+	display:inline-block;
+	position: relative;
+	margin:0;
+	top: -40%;
+	
+}
+#public-comment-input{
+	width: 100%;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+.options-img{
+	height: 8vh;
+	width: auto;
+	
+}
