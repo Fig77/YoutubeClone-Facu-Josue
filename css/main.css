@@ -202,3 +202,19 @@ aside{
 	height: 4vh;
 	text-align: center;
 }
+
+#main-video-description-text{
+	width: 70%;
+	margin-left:8.5%;
+	
+}
+#description-text{
+	font-size:14px;
+}
+
+#description-text-more{
+	color: #696969;
+}
+#description-text-more:hover{
+	cursor:pointer;
+}
