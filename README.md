@@ -1,6 +1,4 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 <br />
 <p align="center">
@@ -116,11 +114,6 @@ Project Link: [Project repo](https://github.com/Fig77/YoutubeClone-Facu-Josue)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/product_ss.png
