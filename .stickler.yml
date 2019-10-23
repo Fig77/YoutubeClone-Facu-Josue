@@ -1,3 +1,7 @@
 linters:
-  stylelint:
-    config: 'stylelint.config.js'
+    phpcs:
+        standard: stylelint
+        fixer: true
+    eslint:
+        config: stylelint.json
+        fixer: true
