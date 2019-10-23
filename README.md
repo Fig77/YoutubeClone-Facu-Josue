@@ -116,4 +116,4 @@ Project Link: [Project repo](https://github.com/Fig77/YoutubeClone-Facu-Josue)
 [contributors-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/issues
-[product-screenshot]: images/product_ss.png
+[product-screenshot]: images/producto_ss.png
