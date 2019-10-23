@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="css/main.css">
+		<script src="js/jquery.js"></script>
+		<script src="js/all.js"></script>
+	</head>
+	
+	<body>
+		<header>
+			<nav class="navbar">
+				
+				<div id="logo">
+					<div id="ham">
+						<img id="ham-img" src="images/ham.png">
+					</div>
+					<div id="youtube-logo">
+						<img id="youtube-logo-img" src="images/youtubeLogo.png">
+					</div>
+				</div>
+
+				<div id="searchbar">
+					<div id="div-searchbar">
+						<input id="search-bar-input" type="text" placeholder="Search"><!--
+						--><button id="search-bar-button"><img id="search-bar-img" src="images/searchButton.png"></button>
+					</div>
+				</div>
+
+				<div id="options">
+					<div class="div-img-container">
+						<img class="options-img" src="images/button_0.png">
+					</div>
+					<div class="div-img-container">
+						<img class="options-img" src="images/button_1.png">
+					</div>
+					<div class="div-img-container">
+						<img class="options-img" src="images/button_2.png">
+					</div>
+					<div class="div-img-container">
+						<img class="options-img" src="images/button_3.png">
+					</div>
+					
+				</div>
+			</nav>
+		</header>
+		<div id="space"></div>
+		<main>
+			<section name="main-video-section">
+				<div>
+					<iframe width="840" height="472.5" src="https://www.youtube.com/embed/f9ip1iSAptQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+			</section >
+			<section id="main-video-title">
+				<div><h1>What is Microverse?</h1></div>
+				<div name="main-video-options">
+					<div id="main-video-views">
+						<label >12,000,000 views - 22/10/2019</label>
+					</div>
+					<div id="main-video-icons">
+						<ul>
+							<li><a placeholder="like"><i class="fas fa-thumbs-up"></i><label class="space-icon">1,234</label></a></li>
+							<li><a placeholder="dislike"><i class="fas fa-thumbs-down"></i><label class="space-icon">48</label></a></li>
+							<li><a placeholder="share"><i class="fas fa-share"></i></a><label class="space-icon">Share</label></li>
+							<li><a placeholder="save"><i class="fas fa-plus"></i><label class="space-icon">Save</label></a></li>
+							<li><a placeholder="thre_dots"><i class="fas fa-ellipsis-h"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			<hr class="main-video-underline">
+			<section name="main-video-description">
+				<div id="main-video-description-profile">
+					<img name="description-profile-image" src="images/profile.png">
+					<label id="description-profile-name">Microverse</label>
+						<button id="description-profile-suscribe">Suscribe</button>
+					
+				</div>
+				<div id="main-video-description-text">
+					<label id="description-text">Microverse is a global,
+						distributed school for software developers that doesn't charge students
+						anything until they get hired.
+					</label>
+					<br>
+					<br>
+					<label id="description-text-more">SHOW MORE</label>
+				</div>
+			</section>
+			<hr class="main-video-underline">
+			<br>
+			<section name="main-comment-section">
+				<div name="comment-section-info">
+					<label name="comments-number">4 comments</label>
+					<label id="sort-by"><i class="fas fa-sort-amount-up-alt"></i>SORT BY</label>
+				</div>
+				<br>
+				<div class="user_comment_c">
+					<img class="options-img" src="images/button_3.png">
+					<div id="public-comment-container">
+						<input type="text" placeholder="Add a public comment" id="public-comment-input">
+					</div>	
+				</div>
+				<div class="comment_c">
+					<img class="random-user-pic" src="images/random_user.png">
+					<label class="random_user_name">I'm just a cat</label>
+					<label class="random_user_date">2 day ago</label>
+					<label class="random_user_comment">Therefore, I don't know how to comment on youtube</label>
+					<ul class="random_user_option">
+						<li><a><i class="fas fa-thumbs-up"></i> 34</a></li>
+						<li><a><i class="fas fa-thumbs-down"></i></a></li>
+						<li><a>ANSWER</a></li>
+					</ul>
+				</div>
+				<div class="comment_c">
+					<img class="random-user-pic" src="images/random_user_1.png">
+					<label class="random_user_name">ItWasTaken</label>
+					<label class="random_user_date">66 day ago</label>
+					<label class="random_user_comment">Everybody floats</label>
+					<ul class="random_user_option">
+						<li><a><i class="fas fa-thumbs-up"></i> 61</a></li>
+						<li><a><i class="fas fa-thumbs-down"></i></a></li>
+						<li><a>ANSWER</a></li>
+					</ul>
+				</div>
+				<div class="comment_c">
+					<img class="random-user-pic" src="images/random_user_2.png">
+					<label class="random_user_name">Panicking69</label>
+					<label class="random_user_date">1 week ago</label>
+					<label class="random_user_comment">Haven't you ever heard of closing a goddamn door?</label>
+					<ul class="random_user_option">
+						<li><a><i class="fas fa-thumbs-up"></i> 34</a></li>
+						<li><a><i class="fas fa-thumbs-down"></i></a></li>
+						<li><a>ANSWER</a></li>
+					</ul>
+				</div>
+				<div class="comment_c">
+					<img class="random-user-pic" src="images/random_user_3.png">
+					<label class="random_user_name">ItsMeWario</label>
+					<label class="random_user_date">1 year ago</label>
+					<label class="random_user_comment">HTML IS NOT A PROGRAMMING LANGUAGE!!111</label>
+					<ul class="random_user_option">
+						<li><a><i class="fas fa-thumbs-up"></i> -1</a></li>
+						<li><a><i class="fas fa-thumbs-down"></i></a></li>
+						<li><a>ANSWER</a></li>
+					</ul>
+				</div>
+			</section>
+			
+		</main>
+		<aside>
+			<section name="recommended-videos">
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">Oasis -  Champagne Supernova</label>
+					</div>
+					<div class="recommended-video-views-container"><label>799 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail1.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">Arctic monkeys -  Knee socks</label>
+					</div>
+					<div class="recommended-video-views-container"><label>32 M</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail2.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">Can you become a Data scientis?</label>
+					</div>
+					<div class="recommended-video-views-container"><label>362 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail3.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">How i learned to code</label>
+					</div>
+					<div class="recommended-video-views-container"><label>799 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail4.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">A Day In The Life Of A Software Engineer</label>
+					</div>
+					<div class="recommended-video-views-container"><label>1.1 M</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail5.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">How Javascript works</label>
+					</div>
+					<div class="recommended-video-views-container"><label>346 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail6.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">Python Vs. Ruby in 2018</label>
+					</div>
+					<div class="recommended-video-views-container"><label>22 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail7.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">Why should you learn ruby?</label>
+					</div>
+					<div class="recommended-video-views-container"><label>75 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail8.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">SQL vs NoSQL vs MongoDB</label>
+					</div>
+					<div class="recommended-video-views-container"><label>711 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail9.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">C++ tutorial From Basic</label>
+					</div>
+					<div class="recommended-video-views-container"><label>799k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail10.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">Rust crash course | Rustlang</label>
+					</div>
+					<div class="recommended-video-views-container"><label>142 k</label></div>
+				</div>
+				<div class="recommended-video-container">
+					<img src="images/video_thumbnail11.png">
+					<div class="recommended-video-title-container">
+						<label class="video-title">C Programming tutorial</label>
+					</div>
+					<div class="recommended-video-views-container"><label>799k</label></div>
+				</div>
+			</section>
+			
+		</aside>
+		
+	</body>
+
+
+</html>
