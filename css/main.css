@@ -355,3 +355,8 @@ aside{
 	width: 12vw;
 	height: auto;
 }
+
+/* HTML validation */
+.cheap-trick{
+	display:none;
+}
