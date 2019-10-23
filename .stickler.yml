@@ -1,7 +1,6 @@
 linters:
-    stylelint:
-        standard: PSR2
-        fixer: true
-    eslint:
-        config: eslint.json
-        fixer: true
+  stylelint:
+    config: 'stylelint.config.js'
+
+fixers:
+    enable: true
