@@ -1,7 +1,7 @@
 linters:
-    phpcs:
-        standard: stylelint
+    stylelint:
+        standard: PSR2
         fixer: true
     eslint:
-        config: stylelint.json
+        config: eslint.json
         fixer: true
