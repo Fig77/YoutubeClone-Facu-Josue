@@ -2,9 +2,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <br />
 <p align="center">
  
@@ -52,22 +49,22 @@ This is our first Microverse project.
  
 ### Requirements:
  Navigation bar
-    - [x] It has an embedded image that represents a logo.
-    - [x] The logo is aligned to the leftmost part of the navbar.
-    - [x] It has an input tag that represents a search bar.
-    - [x] The search bar is aligned to the middle of the navbar.
-    - [x] It has a button tag that represents the search button.
-    - [x] The search button is at the end (rightmost part) of the search bar.
-    - [x] It has at least three embedded images on the rightmost part of the navbar that represent icons and/or an avatar.
+   - [x] It has an embedded image that represents a logo.
+   - [x] The logo is aligned to the leftmost part of the navbar.
+   - [x] It has an input tag that represents a search bar.
+   - [x] The search bar is aligned to the middle of the navbar.
+   - [x] It has a button tag that represents the search button.
+   - [x] The search button is at the end (rightmost part) of the search bar.
+   - [x] It has at least three embedded images on the rightmost part of the navbar that represent icons and/or an avatar.
 
  Video
-    - [x] It is displayed.
-    - [x] It shows the video title.
-    - [x] It shows the number of views.
-    - [x] It has like and dislike icons.
-    - [x] It has a share button.
-    - [x] It shows the avatar of the user who uploaded the video.
-    - [x] It has a subscribe button.
+   - [x] It is displayed.
+   - [x] It shows the video title.
+   - [x] It shows the number of views.
+   - [x] It has like and dislike icons.
+   - [x] It has a share button.
+   - [x] It shows the avatar of the user who uploaded the video.
+   - [x] It has a subscribe button.
 
  Sidebar Recommended videos
    - [x] It shows the recommended video’s thumbnail preview.
@@ -115,20 +112,15 @@ Project Link: [Project repo](https://github.com/Fig77/YoutubeClone-Facu-Josue)
 
 
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/Fig77/YoutubeClone-Facu-Josue/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
