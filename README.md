@@ -1,18 +1,19 @@
 # YoutubeClone-Facu-Josue
 First Microverse project - Embedding Images and Video
 
-##Users involved in the programming:
+## Users involved in the programming:
 -Facundo Iglesias  Github username: @Fig77
 -Josue Brigido Github username: @kalavhan
 
-##Objective
+## Objective
  -Getting familiar with basic HTML structure
  -Getting familiar with basic CSS properties
  -Getting accustomed to remote programming enviroment
-##Live version
-[link to lastest version!](http://kalavhan.com/YoutubeClone-Facu-Josue/index.html)
-##Requirements:
 
+## Live version
+[link to lastest version!](http://kalavhan.com/YoutubeClone-Facu-Josue/index.html)
+
+## Requirements:
     Navigation bar
     - [x] It has an embedded image that represents a logo.
     - [x] The logo is aligned to the leftmost part of the navbar.
