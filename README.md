@@ -24,12 +24,8 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
+* [Use](#use)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -98,6 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Facundo Iglesias - [Github profile](https://github.com/Fig77)
+<br>
 Josue Brigido - [Github profile](https://github.com/kalavhan)
 
 Project Link: [Project repo](https://github.com/Fig77/YoutubeClone-Facu-Josue)
