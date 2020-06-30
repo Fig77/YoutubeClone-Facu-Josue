@@ -39,7 +39,7 @@ This is our first Microverse project.
 ### Objective
  -Getting familiar with basic HTML structure
  -Getting familiar with basic CSS properties
- -Getting accustomed to remote programming enviroment
+ -Getting accustomed to a remote programming environment
  
 ### Requirements:
  Navigation bar
@@ -55,7 +55,7 @@ This is our first Microverse project.
    - [x] It is displayed.
    - [x] It shows the video title.
    - [x] It shows the number of views.
-   - [x] It has like and dislike icons.
+   - [x] It has like and dislikes icons.
    - [x] It has a share button.
    - [x] It shows the avatar of the user who uploaded the video.
    - [x] It has a subscribe button.
@@ -70,7 +70,7 @@ This is our first Microverse project.
 
 
 ### Built With
-This project was built using raw html and css, and all support necessary for using font awesome.* 
+This project was built using raw HTML and CSS, and all support necessary for using font awesome.* 
 
 
 <!-- USAGE EXAMPLES -->
